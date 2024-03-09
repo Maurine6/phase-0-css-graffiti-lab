@@ -1,1 +1,22 @@
 /* write your override styles here */
+body {
+    background: black url(../images/sketch.jpg) no-repeat center; 
+    background-size: cover;
+}
+#wall .tag-1 {
+    display: none;
+  } 
+
+#wall>#tag-2 {
+    display: none;
+}
+
+#wall .slick{
+    display: none;
+}
+#wall .wicked{
+    display: none;
+}
+.parent{
+    display: none;
+}
